@@ -13,3 +13,4 @@ ui_*.h
 moc_*.h
 moc_*.cpp
 qrc_*.cpp
+porymap.exe
